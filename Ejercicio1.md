@@ -22,6 +22,8 @@ Los seis símbolos básicos de un diagrama de flujo son:
 5. **Línea de flujo** (Flecha)
 6. **Conector** (Círculo)
 
+# imagen 
+![imagen de referencia]("C:\Users\OUTLIER\Downloads\images(1).jfif")
 ## Referencias
 
 - ISO 5807. *Information Processing — Documentation Symbols and Conventions for Data, Program and System Flowcharts, Program Network Charts and System Resources Charts*.
