@@ -23,7 +23,7 @@ Los seis símbolos básicos de un diagrama de flujo son:
 6. **Conector** (Círculo)
 
 # Imagen 
-![imagen de referencia](./img/images (1).jfif')
+![imagen de referencia](./img/images (1).jfif)
 
 ## Referencias
 
