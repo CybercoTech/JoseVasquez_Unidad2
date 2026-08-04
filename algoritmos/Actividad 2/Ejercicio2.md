@@ -6,7 +6,7 @@ Algoritmo que recibe el ID de un empleado y sus seis primeros sueldos del año p
 ## 2. Diagrama de Flujo
 Representación gráfica de la estructura secuencial diseñada en draw.io:
 
-![Diagrama de Flujo - Ejercicio 2](![Diagrama de Flujo - Ejercicio 2](img/ejercicio_2.png)
+![Diagrama de Flujo - Ejercicio 2](img/ejercicio_2.png)
 
 
 
