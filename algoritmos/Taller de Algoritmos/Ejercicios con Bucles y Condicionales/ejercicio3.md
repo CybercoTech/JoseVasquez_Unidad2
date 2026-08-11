@@ -1,10 +1,13 @@
-# Ejercicio 3
+
+# Ejercicio 2
+
+
 ## Enunciado
-![enunciado](img4/enunciadoejercicio3.png)
+![enunciado](img3/enunciadoejercicio3.png)
 
 ## Algoritmo
 **1. Planteamiento del algoritmo:**
-![planteamiento del algoritmo](img4/planteamiento-del-algoritmo3.png)
+![planteamiento del algoritmo](img3/Planteamiento-del-algoritmo3.png)
 
 **2. Diagrama de Flujo (Pseudocódigo):**
-![pseudocodigo](img4/diagrama3.png)
+![pseudocodigo](img3/diagrama3.png)
