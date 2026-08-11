@@ -7,7 +7,7 @@
 
 ## Algoritmo
 ### 1. Planteamiento del algoritmo:
-![planteamiento del algoritmo](img4/Planteamiento-del-algoritmo3.png)
+![planteamiento del algoritmo](img4/planteamiento-del-algoritmo3.png)
 
 ### 2. Diagrama de Flujo (Pseudocódigo):
 
