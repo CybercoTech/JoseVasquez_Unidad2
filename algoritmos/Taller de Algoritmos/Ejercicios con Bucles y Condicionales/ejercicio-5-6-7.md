@@ -26,7 +26,7 @@
 ## Ejercicio 7
 ### Algoritmo
 **1. Planteamiento del algoritmo:**
-![planteamiento del algoritmo](img5/planteamiento-del-algoritmo7.png)
+![planteamiento del algoritmo](img5/planteamiento-del-diagrama7.png)
 
 **2. Diagrama de Flujo (Pseudocódigo):**
 ![pseudocodigo](img5/diagrama7.png)
