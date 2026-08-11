@@ -4,12 +4,10 @@ En este ejercicio resolvemos un problema práctico: calcular la capacidad de agu
 
 ## Enunciado
 
-> Un acuario necesita determinar cuántos litros o galones de agua caben en un acuario, pero solo dispone de una cinta métrica (en centímetros). Diseña un algoritmo para solucionar el problema.
-
 
 ![imagen del enunciado](img2/enunciado-ejercicio-acuario.png)
 
-
+# Diagrama 
 ![imagen del diagrama](img2/diagramaflujo.png)
 
 
