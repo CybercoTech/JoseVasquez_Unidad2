@@ -4,9 +4,9 @@ En este ejercicio se calcula el monto del descuento aplicable a una compra de ro
 
 ## Enunciado
 
-> Un almacén de ropa tiene una promoción: por compras superiores a $250 000 se les aplicará un descuento de 15%, de caso contrario, sólo se aplicará un 8% de descuento. Realice un algoritmo para determinar el precio final que debe pagar una persona por comprar en dicho almacén y de cuánto es el descuento que obtendrá. Represéntelo mediante el pseudocódigo y el diagrama de flujo.
-
 ![Enunciado del problema](img2/enunciado-ejercicio-almacen.png)
+
+## Diagrama 
 ![diagrama ejercicio](img2/diagrama-almacen.png)
 
 ## ¿Qué se hizo?
