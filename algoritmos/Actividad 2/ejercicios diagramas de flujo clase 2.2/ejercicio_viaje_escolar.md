@@ -2,10 +2,7 @@
 
 En este ejercicio se determinan los cobros individuales por alumno y el costo global que la escuela debe pagar a la compañía de transporte, estructurado mediante rangos de escala de pasajeros.
 
-## Enunciado
-
-> El director de una escuela está organizando un viaje de estudios, y requiere determinar cuánto debe cobrar a cada alumno y cuánto debe pagar a la compañía de viajes por el servicio. La forma de cobrar es la siguiente: si son 100 alumnos o más, el costo por cada alumno es de $65.00; de 50 a 99 alumnos, el costo es de $70.00, de 30 a 49, de $95.00, y si son menos de 30, el costo de la renta del autobús es de $4000.00, sin importar el número de alumnos.
-
+# Enunciado y Diagrama de Fluijo 
 ![Enunciado del problema](img2/enunciado-ejercicio-viaje-alumnos.png)
 ![diagrama ejercicio](img2/diagrama-viaje-escolar.png)
 
