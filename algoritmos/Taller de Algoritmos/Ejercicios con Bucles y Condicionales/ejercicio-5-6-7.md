@@ -9,7 +9,7 @@
 ![planteamiento del algoritmo](img5/planteamiento-del-diagrama5.png)
 
 **2. Diagrama de Flujo (Pseudocódigo):**
-![pseudocodigo](img3/diagrama5.png)
+![pseudocodigo](img5/diagrama5.png)
 
 ---
 
