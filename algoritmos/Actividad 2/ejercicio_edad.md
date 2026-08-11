@@ -8,5 +8,5 @@ Diseñar un algoritmo que calcule la edad exacta de una persona a partir de su f
 ## 2. Diagrama de Flujo
 Representación gráfica del diagrama desarrollado en draw.io:
 
-![Diagrama de Flujo - Ejercicio Edad](img1/images.png)
+![Diagrama de Flujo - Ejercicio Edad](img1/images1.png)
 
