@@ -8,7 +8,7 @@
 ## Ejercicio 8
 ### Algoritmo
 **1. Planteamiento del algoritmo:**
-![planteamiento del algoritmo](img6/planteamiento-del-algoritmo8.png)
+![planteamiento del algoritmo](img6/planteamiento-del-diagrama8.png)
 
 **2. Diagrama de Flujo (Pseudocódigo):**
 ![pseudocodigo](img6/diagrama8.png)
@@ -18,7 +18,7 @@
 ## Ejercicio 9
 ### Algoritmo
 **1. Planteamiento del algoritmo:**
-![planteamiento del algoritmo](img6/planteamiento-del-algoritmo9.png)
+![planteamiento del algoritmo](img6/planteamiento-del-diagrama9.png)
 
 **2. Diagrama de Flujo (Pseudocódigo):**
 ![pseudocodigo](img6/diagrama9.png)
@@ -28,7 +28,7 @@
 ## Ejercicio 10
 ### Algoritmo
 **1. Planteamiento del algoritmo:**
-![planteamiento del algoritmo](img6/planteamiento-del-algoritmo10.png)
+![planteamiento del algoritmo](img6/planteamiento-del-diagrama10.png)
 
 **2. Diagrama de Flujo (Pseudocódigo):**
 ![pseudocodigo](img6/diagrama10.png)
