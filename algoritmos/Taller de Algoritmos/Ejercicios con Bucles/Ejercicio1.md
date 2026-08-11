@@ -13,5 +13,5 @@
 
 **2. Diagrama de Flujo (Pseudocódigo):**  
 
-![pseudocodigo](img3/diagrama1.png)
+![pseudocodigo](img3/diagrama1v2.png)
 
